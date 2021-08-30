@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👩‍💻 Software engineer with a passion for building things
+- 🎓 BSc + MSc in Informatics and Computer Engineering @FEUP
+- ✨ Keen on web and application development
+
 <!--
 **mbaguiar/mbaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
